@@ -1,24 +1,176 @@
-# README
+<!-- TABLE OF CONTENTS -->
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 📗 Table of Contents
 
-Things you may want to cover:
+<details>
+  <summary>📗 Table of Contents</summary>
+  <ul>
+    <li><a href="#-hello-rails-back-end-">📖 hello-rails-back-end</a></li>
+    <li><a href="#-built-with-">🛠 Built With</a></li>
+    <li><a href="#-getting-started-">💻 Getting Started</a></li>
+    <li><a href="#-authors-">👥 Authors </a></li>
+    <li><a href="#-future-features-">🔭 Future Features</a></li>
+    <li><a href="#-contributing-">🤝 Contributing</a></li>
+    <li><a href="#️-show-your-support-">⭐️ Show your support </a></li>
+    <li><a href="#-acknowledgments-">🙏 Acknowledgments </a></li>
+    <li><a href="#-license-">📝 License</a></li>
+  </ul>
+</details>
 
-* Ruby version
+<br>
 
-* System dependencies
+<!-- PROJECT DESCRIPTION -->
 
-* Configuration
+# 📖 Vesper-backend <a name="about-project"></a>
 
-* Database creation
+**Vesper-backend** is the rails backend API application for implementing a connection between a Ruby on Rails back-end and React front-end.
+## 🛠 Built With <a name="built-with"></a>
 
-* Database initialization
+### Tech Stack <a name="tech-stack"></a>
 
-* How to run the test suite
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://rubyonrails.org/">Rails</a></li>
+  </ul>
+</details>
 
-* Services (job queues, cache servers, search engines, etc.)
+<details>
+  <summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-* Deployment instructions
+<!-- Features -->
 
-* ...
+### Key Features <a name="key-features"></a>
+
+- Handles logic for storing and retrieving data from the database
+- Handles logic for returning data to the frontend
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🩺 Documentation <a name="key-features"></a>
+
+- [Api docs](https://vesper-backend.onrender.com/api-docs/index.html)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🎨 Link to Frontend <a name="key-features"></a>
+
+- [Frontend](git@github.com:ginabeki/hello-react-front-end.git)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+ git
+ bundle
+ Your favorite text editor
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  git clone https://github.com/ginabeki/hello-rails-back-end.git
+```
+
+### Database setup
+
+Connect to your local postgres database:
+
+### Install
+
+Install this project with:
+
+```sh
+  cd hello-rails-back-end
+  bundle install
+  rails: db:create - create the database
+  rails: db:migrate - run pending migrations for the current environment.
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  rails server - Starts the development server
+  rails console - Starts the interactive command line
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  rspec - Runs the test suite
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+👤 **Gina Beki**
+
+- GitHub: [@ginabeki](https://github.com/ginabeki)
+- LinkedIn: [Gina Beki](https://www.linkedin.com/in/ginabeki)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] Add more endpoints
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please leave a star🤩
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- [Microverse](https://www.microverse.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
