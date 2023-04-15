@@ -21,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Vesper-backend <a name="about-project"></a>
+# 📖 Hello-rails-back-end <a name="about-project"></a>
 
-**Vesper-backend** is the rails backend API application for implementing a connection between a Ruby on Rails back-end and React front-end.
+**Hello-rails-back-end** is the rails backend API application for implementing a connection between a Ruby on Rails back-end and React front-end.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -49,12 +49,6 @@
 
 - Handles logic for storing and retrieving data from the database
 - Handles logic for returning data to the frontend
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🩺 Documentation <a name="key-features"></a>
-
-- [Api docs](https://vesper-backend.onrender.com/api-docs/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
