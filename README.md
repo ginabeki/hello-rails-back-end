@@ -54,7 +54,7 @@
 
 ## 🎨 Link to Frontend <a name="key-features"></a>
 
-- [Frontend](git@github.com:ginabeki/hello-react-front-end.git)
+- [Frontend](https://github.com/ginabeki/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
