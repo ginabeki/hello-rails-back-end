@@ -54,7 +54,7 @@
 
 ## 🎨 Link to Frontend <a name="key-features"></a>
 
-- [Frontend](https://github.com/ginabeki/hello-react-front-end)
+- [Frontend](https://github.com/ginabeki/hello-react-front-end/tree/create-messages)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
